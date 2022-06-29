@@ -1,4 +1,4 @@
-### Termos e acordos
+# Tech News Scraper Project
 
 Um projeto que tem como principal objetivo fazer consultas em notícias sobre tecnologia. As notícias são obtidas através da raspagem das [últimas notícias do _TecMundo_](https://www.tecmundo.com.br/novidades).
 
